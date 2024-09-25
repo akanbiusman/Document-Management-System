@@ -1,0 +1,11 @@
+myenv/
+__pycache__/
+instance/
+uploads/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+*.log
+.dockerignore
